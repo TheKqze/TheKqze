@@ -26,10 +26,3 @@ A passionate developer. Always learning and building new things.
     <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,react,nextjs,nodejs,tailwind,mysql,postgres,sqlite,docker,nginx&perline=8" alt="My Skills" />
   </a>
 </p>
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheKqze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKqze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</p>
