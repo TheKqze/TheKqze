@@ -23,6 +23,6 @@ A passionate developer. Always learning and building new things.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,react,nextjs,nodejs,tailwind,mysql,postgres,sqlite,docker,nginx&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,nextjs,nodejs,tailwind,mysql,postgres,sqlite,docker,nginx&perline=8" alt="My Skills" />
   </a>
 </p>
